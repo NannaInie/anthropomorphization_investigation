@@ -1,7 +1,7 @@
 # How to talk about it without adding to the anthropomorphization
 *Emily M. Bender and Nanna Inie*
 
-In our op-ed for Tech Policy Press ([https://www.techpolicy.press/we-need-to-talk-about-how-we-talk-about-ai/]("We Need to Talk About How We Talk About 'AI'")), we made the case against the anthropomorphizing language that makes it harder to have clear discussions of what so-called "AI" technologies actually do, and when and whether to use them. But these ways of speaking are deeply ingrained at this point, and it takes work carve new conversational and writing habits. That work involves at least three steps:
+In our op-ed for Tech Policy Press (("We Need to Talk About How We Talk About 'AI'")[https://www.techpolicy.press/we-need-to-talk-about-how-we-talk-about-ai/]), we made the case against the anthropomorphizing language that makes it harder to have clear discussions of what so-called "AI" technologies actually do, and when and whether to use them. But these ways of speaking are deeply ingrained at this point, and it takes work carve new conversational and writing habits. That work involves at least three steps:
 
 1. Noticing which word choices are anthropomorphizing
 2. Finding alternatives
