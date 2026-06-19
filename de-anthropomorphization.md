@@ -56,9 +56,14 @@ The names and pronouns we use to refer to systems can also function in anthropom
 
 Pronouns are chosen each time, and avoiding pronouns usually reserved for people (and pets), e.g. *he*, *she*, and singular *they* is a good first step. But subtle choices—such as grouping algorithms and people under *you* or *them*—can anthropomorphize. Separating systems from people and avoiding collective pronouns is preferable. 
 
-Examples:<br><br>:
+Examples:<br><br>
 *who’s right?* → *is the machine output correct?*<br><br>*they produce results* → *the team uses it [the system] to produce results*                                                        
 ###  Biological metaphors
+
+Computer scientists working in "AI" (and its subfields) have been embedding biological metaphors in their technical terminology for a long time. These turns of phrase might have been metaphorical in their origins, but they also function to suggest more similarity than is actually there. When revising away from biological metaphors, ask how system functionality can be more precisely described to give readers a clearer sense of what is actually happening.                                                                                                           
+
+Examples:<br><br>
+*neural networks* → *weighted networks*<br><br>*the model consumes data* → *data is used in setting model weights* 
 
 ## Reflections
 
@@ -66,6 +71,9 @@ We encourage you to try out the above rephrasings and to create some of your own
 
 It can also feel a bit socially awkward, because you are swimming against linguistic and cultural currents, but that can also be rewarding in and of itself. At a talk she gave in January, Emily was asked by a student how to contribute to the resistance against "AI" in conversations with friends, without being a stick in the mud. Emily said: Be a stick in the mud! If you think about our current situation as mired in mud that's hard to walk in, if you plant a stick, you can start to create firm ground for others to join you on. 
 
+
+
+--- 
 
 | **Category**                         | **Alternative strategies**                                                                                                                                                                                                                                                                                                                                                                             | **Examples**                                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
