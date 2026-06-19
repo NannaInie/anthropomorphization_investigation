@@ -1,4 +1,4 @@
-# How to talk about it without adding to the anthropomorphization
+# How to talk about "AI" without adding to the anthropomorphization
 *Emily M. Bender and Nanna Inie*
 
 In our op-ed for Tech Policy Press (["We Need to Talk About How We Talk About 'AI'"](https://www.techpolicy.press/we-need-to-talk-about-how-we-talk-about-ai/)), we made the case against the anthropomorphizing language that makes it harder to have clear discussions of what so-called "AI" technologies actually do, and when and whether to use them. But these ways of speaking are deeply ingrained at this point, and it takes work carve new conversational and writing habits. That work involves at least three steps:
@@ -11,7 +11,9 @@ In our research (summarized in the op-ed) we have been working on the first two 
 
 We'll go through the categories of anthropomorphizing language we identified in [Inie et al 2026](https://dx.doi.org/10.5210/fm.v31i2.14366), and give examples of de-anthropomorphized versions for each.
 
-## Cognizer and products of cognition
+## Our suggestions
+
+### Cognizer and products of cognition
 
 This category is super frequent, because it's right in the marketing term "artificial intelligence" itself. This is language that locates thinking in an algorithm. Instead, we recommend describing software as performing calculations or other algorithmic operations, and locate the thinking with the people using the system. (In some cases, people clearly aren't thinking when they use them, but they are still the ones who should be.)
 
@@ -22,15 +24,47 @@ In general, we recommend avoiding using *artificial intelligence* or *AI* in ref
 
 We've also put *hallucination* in this category, because in its original sense it refers to perceiving things that are not there, but of course software systems (and conversation simulators in particular) don't perceive anything. Our proposed one-to-one replacement phrase is *undesirable outputs*, but it is also important to know that all LLM output is probablisitically produced synthetic text; there is no fundamental difference between desirable and undesirable outputs on the system side, but only for the people interpreting them.
 
-## Emotion
+### Emotion
 
 These are turns of phrase that suggest that software systems have emotional lives. We don't have particular rephrasings to recommend here because there is no accurate way to talk about emotional states of computers other than to reassert the obvious, that they don't have any. What's perhaps most subtle (and thus most fun for linguists) about this category is that these allusions to emotional experience can sneak in in surprising ways: If you say that ChatGPT *struggles* to do something, or that you had to *coax* it into some output, you are describing it as if it had emotional states.
 
-## Communication
+### Communication
 
 In this category, we find words that place automated systems, usually synthetic text extruding machines, on an equal footing with people in communicative situations. If we *ask* something of Claude, we are describing Claude as a conversational partner. Instead of verbs like *ask, say, inform, discuss*, use verbs appropriate to computers like *input* and *output*. Another strategy is to foreground the fact of simulation.   
 Examples:<br><br>
 *prompt* → *text input*<br><br>*answer* → *output*<br><br>*chatbot / conversational agent* → *conversation simulator*    
+
+
+### Agency
+
+Turns of phrase that locate agency with a machine often serve to obfuscate the interests and goals of people. We suggest revising to locate agency with people or choosing less agentive verbs.
+
+Examples:<br><br>
+*ChatGPT assisted students* → *the students used ChatGPT*<br><br>*revealing the solution* → *displaying the solution*<br><br>AI agent* → *probabilistic, unverified API manipulator*
+
+The elephant in the room of this category is the buzzword "AI agent". This is a term for software systems that connected LLMs (probabilistic synthetic text extruding machines) and/or other components up with other systems that can impact the world, i.e. systems previously designed for people to do things like schedule appointments, book flights, or make other purchases. 
+
+### Human Role Analogy
+
+These are words that cast systems as doing the same work as people in various roles, and serve to hide all of the ways in which such automation falls short of what is needed all the while devaluing the actual work that people do and relationships that we form. Calling systems *tutor* or *co-creator* are overclaims that describe what a developer might wish they could develop—for those who want to replace people in these roles.  
+
+For this category, our recommendation is to use language that describes algorithms as tools (or products) that people use, rather than as human-like entities, more clearly indicates system functionality while also not telegraphing a plan to replace people.  
+
+### Names and Pronouns
+
+The names and pronouns we use to refer to systems can also function in anthropomoprhizing ways. With system names, its somewhat trickier, because the system developers usually get to do the naming, and if they use a person's name for it, everyone else is stuck repeating that anthropomorphizing choice (we're looking at you, Anthropic, with *Claude*) or going for circumlocuations (*Anthropic's conversation simulator*). 
+
+Pronouns are chosen each time, and avoiding pronouns usually reserved for people (and pets), e.g. *he*, *she*, and singular *they* is a good first step. But subtle choices—such as grouping algorithms and people under *you* or *them*—can anthropomorphize. Separating systems from people and avoiding collective pronouns is preferable. 
+
+Examples:<br><br>:
+*who’s right?* → *is the machine output correct?*<br><br>*they produce results* → *the team uses it [the system] to produce results*                                                        
+###  Biological metaphors
+
+## Reflections
+
+We encourage you to try out the above rephrasings and to create some of your own in the same spirit! It can feel awkward at first, but in our experience it is easier that reliably pronouncing or spelling the word *anthropomorphization*, to there is that.
+
+It can also feel a bit socially awkward, because you are swimming against linguistic and cultural currents, but that can also be rewarding in and of itself. At a talk she gave in January, Emily was asked by a student how to contribute to the resistance against "AI" in conversations with friends, without being a stick in the mud. Emily said: Be a stick in the mud! If you think about our current situation as mired in mud that's hard to walk in, if you plant a stick, you can start to create firm ground for others to join you on. 
 
 
 | **Category**                         | **Alternative strategies**                                                                                                                                                                                                                                                                                                                                                                             | **Examples**                                                                                                                                                                                                                                                                                                                                                                              |
