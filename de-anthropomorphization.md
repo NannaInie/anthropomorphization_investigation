@@ -40,7 +40,7 @@ Examples:<br><br>
 Turns of phrase that locate agency with a machine often serve to obfuscate the interests and goals of people. We suggest revising to locate agency with people or choosing less agentive verbs.
 
 Examples:<br><br>
-*ChatGPT assisted students* → *the students used ChatGPT*<br><br>*revealing the solution* → *displaying the solution*<br><br>AI agent* → *probabilistic, unverified API manipulator*
+*ChatGPT assisted students* → *the students used ChatGPT*<br><br>*revealing the solution* → *displaying the solution*<br><br>*AI agent* → *probabilistic, unverified API manipulator*
 
 The elephant in the room of this category is the buzzword "AI agent". This is a term for software systems that connected LLMs (probabilistic synthetic text extruding machines) and/or other components up with other systems that can impact the world, i.e. systems previously designed for people to do things like schedule appointments, book flights, or make other purchases. 
 
