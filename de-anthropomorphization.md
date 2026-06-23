@@ -63,7 +63,7 @@ Examples:<br><br>
 Computer scientists working in "AI" (and its subfields) have been embedding biological metaphors in their technical terminology for a long time. These turns of phrase might have been metaphorical in their origins, but they also function to suggest more similarity than is actually there. When revising away from biological metaphors, ask how system functionality can be more precisely described to give readers a clearer sense of what is actually happening.                                                                                                           
 
 Examples:<br><br>
-***neural networks*** → ***weighted networks*** (from (Hunger 2023)[https://trainingthearchive.ludwigforum.de/en/working-paper-6-en/])<br>***the model consumes data*** → ***data is used in setting model weights***
+***neural networks*** → ***weighted networks*** (from [Hunger 2023](https://trainingthearchive.ludwigforum.de/en/working-paper-6-en/))<br>***the model consumes data*** → ***data is used in setting model weights***
 
 ## Reflections
 
