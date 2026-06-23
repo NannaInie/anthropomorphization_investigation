@@ -57,13 +57,13 @@ The names and pronouns we use to refer to systems can also function in anthropom
 Pronouns are chosen each time, and avoiding pronouns usually reserved for people (and pets), e.g. *he*, *she*, and singular *they* is a good first step. But subtle choices—such as grouping algorithms and people under *you* or *them*—can anthropomorphize. Separating systems from people and avoiding collective pronouns is preferable. 
 
 Examples:<br><br>
-*who’s right?* → *is the machine output correct?*<br><br>*they produce results* → *the team uses it [the system] to produce results*                                                        
+***who’s right?*** → ***is the machine output correct?***<br>***they produce results*** → ***the team uses it [the system] to produce results***                                                        
 ###  Biological metaphors
 
 Computer scientists working in "AI" (and its subfields) have been embedding biological metaphors in their technical terminology for a long time. These turns of phrase might have been metaphorical in their origins, but they also function to suggest more similarity than is actually there. When revising away from biological metaphors, ask how system functionality can be more precisely described to give readers a clearer sense of what is actually happening.                                                                                                           
 
 Examples:<br><br>
-*neural networks* → *weighted networks*<br><br>*the model consumes data* → *data is used in setting model weights* 
+***neural networks*** → ***weighted networks***<br>***the model consumes data*** → ***data is used in setting model weights***
 
 ## Reflections
 
