@@ -18,7 +18,7 @@ We'll go through the categories of anthropomorphizing language we identified in 
 This category is super frequent, because it's right in the marketing term "artificial intelligence" itself. This is language that locates thinking in an algorithm. Instead, we recommend describing software as performing calculations or other algorithmic operations, and locate the thinking with the people using the system. (In some cases, people clearly aren't thinking when they use them, but they are still the ones who should be.)
 
 Examples:<br><br>
-**artificial intelligence** → **probabilistic automation**<br>***hybrid intelligence*** → ***augmented human intelligence***<br>***image recognition*** → ***image labeling***<br>***speech recognition*** → ***automatic transcription***<br>***the model shows bias*** → ***the model reflects bias***<br>***model mistakes*** → ***model errors***<br>***chatbots are good at …*** → ***chatbots are good for …***<br>***hallucination*** → ***undesirable output***
+***artificial intelligence*** → ***probabilistic automation***<br>***hybrid intelligence*** → ***augmented human intelligence***<br>***image recognition*** → ***image labeling***<br>***speech recognition*** → ***automatic transcription***<br>***the model shows bias*** → ***the model reflects bias***<br>***model mistakes*** → ***model errors***<br>***chatbots are good at …*** → ***chatbots are good for …***<br>***hallucination*** → ***undesirable output***
 
 In general, we recommend avoiding using *artificial intelligence* or *AI* in reference to technologies. We do still talk about the "AI" industry, because that is the name of a thing, and talk about "AI" as an ideology. But when the intended referent is some specific technological system, it is always better to name that system itself. Maybe it's some specific product. Or maybe it's a system with a particular function like automatic transcription. Either way, it's worth finding names that aren't also anthropomorphizing.
 
@@ -32,17 +32,17 @@ These are turns of phrase that suggest that software systems have emotional live
 
 In this category, we find words that place automated systems, usually synthetic text extruding machines, on an equal footing with people in communicative situations. If we *ask* something of Claude, we are describing Claude as a conversational partner. Instead of verbs like *ask, say, inform, discuss*, use verbs appropriate to computers like *input* and *output*. Another strategy is to foreground the fact of simulation.   
 Examples:<br><br>
-*prompt* → *text input*<br><br>*answer* → *output*<br><br>*chatbot / conversational agent* → *conversation simulator*    
+***prompt*** → ***text input***<br>***answer*** → ***output***<br>***chatbot / conversational agent*** → ***conversation simulator***    
 
 
 ### Agency
 
 Turns of phrase that locate agency with a machine often serve to obfuscate the interests and goals of people. We suggest revising to locate agency with people or choosing less agentive verbs.
 
-Examples:<br><br>
-*ChatGPT assisted students* → *the students used ChatGPT*<br><br>*revealing the solution* → *displaying the solution*<br><br>*AI agent* → *probabilistic, unverified software manipulator*
+Examples:<br>
+***ChatGPT assisted students*** → ***the students used ChatGPT***<br>***revealing the solution*** → ***displaying the solution***<br>***AI agent*** → ***probabilistic, unverified software manipulator***
 
-The elephant in the room of this category is the buzzword "AI agent". This is a term for software systems that connected LLMs (probabilistic synthetic text extruding machines) and/or other components up with other systems that can impact the world, i.e. systems previously designed for people to do things like schedule appointments, book flights, or make other purchases. 
+The elephant in the room of this category is the buzzword *AI agent*. This is a term for software systems that connected LLMs (probabilistic synthetic text extruding machines) and/or other components up with other systems that can impact the world, i.e. systems previously designed for people to do things like schedule appointments, book flights, or make other purchases. Our suggestion for this one for now is *probabilistic, unverified software manipulator*, which has the advantage of giving a suitably gross acronym ("No thank you, I don't want to use your PUSMic system.") But, we are definitely open to other ideas! Send them our way and if any seem particularly apt, we will add them to this list.
 
 ### Human Role Analogy
 
